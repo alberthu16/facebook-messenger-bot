@@ -1,12 +1,12 @@
 {
-  "name": "chatbot",
+  "name": "Flow Server",
   "version": "1.0.0",
   "description": "A Facebook Messenger bot created with Express and request",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "giannoug",
+  "author": "alberthu16",
   "license": "WTFPL",
   "dependencies": {
     "body-parser": "^1.15.0",
